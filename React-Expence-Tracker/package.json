@@ -13,9 +13,9 @@
     ],
     "repository": {
       "type": "git",
-      "url": "https://github.com/shamahoque/mern-skeleton.git"
-    },
-    "homepage": "https://github.com/shamahoque/mern-skeleton",
+      "url": "https://github.com/ROUSE-prog/React-Expence-Tracker.git"
+  },
+  "homepage": "https://github.com/ROUSE-prog/React-Expence-Tracker",
     "main": "./dist/server.generated.js",
     "scripts": {
       "development": "nodemon",
